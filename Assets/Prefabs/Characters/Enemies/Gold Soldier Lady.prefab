@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5143573594813371417
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8329758740574468995}
+    m_Modifications:
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342079012, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 994165195342116868, guid: 127ea67acdf27864b9f1c7618b0ed019,
+        type: 3}
+      propertyPath: m_Name
+      value: Gold Sci Fi Lady
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 994165195351591440, guid: 127ea67acdf27864b9f1c7618b0ed019, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 127ea67acdf27864b9f1c7618b0ed019, type: 3}
+--- !u!1001 &5949757624821294750
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3114460714977237971, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_Name
+      value: Gold Soldier Lady
+      objectReference: {fileID: 0}
+    - target: {fileID: 6069472651489580500, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 36295236e13dcd54fb12e6791642edc6, type: 3}
+    - target: {fileID: 6069472651489580500, guid: 69e50245c2d47e648a0dbd38b737631d,
+        type: 3}
+      propertyPath: m_CullingMode
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 69e50245c2d47e648a0dbd38b737631d, type: 3}
+--- !u!4 &8329758740574468995 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2380423399722736925, guid: 69e50245c2d47e648a0dbd38b737631d,
+    type: 3}
+  m_PrefabInstance: {fileID: 5949757624821294750}
+  m_PrefabAsset: {fileID: 0}
